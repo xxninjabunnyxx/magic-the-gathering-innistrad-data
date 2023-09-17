@@ -1,0 +1,115 @@
+---
+object: card
+id: 9c16cf74-f9e0-4d80-9a29-b91dec0b6b38
+oracle_id: c55909d3-1f67-4a4a-9d53-8513d6cf96d8
+multiverse_ids:
+- 230783
+mtgo_id: 42554
+mtgo_foil_id: 42555
+tcgplayer_id: 52195
+cardmarket_id: 250457
+name: Stromkirk Noble
+lang: en
+released_at: '2011-09-30'
+uri: https://api.scryfall.com/cards/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38
+scryfall_uri: https://scryfall.com/card/isd/164/stromkirk-noble?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.jpg?1562834502
+  normal: https://cards.scryfall.io/normal/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.jpg?1562834502
+  large: https://cards.scryfall.io/large/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.jpg?1562834502
+  png: https://cards.scryfall.io/png/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.png?1562834502
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.jpg?1562834502
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38.jpg?1562834502
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Creature — Vampire Noble
+oracle_text: |-
+  Stromkirk Noble can't be blocked by Humans.
+  Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d1026945-2969-42b9-be53-f941405a58cb
+set: isd
+set_name: Innistrad
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d1026945-2969-42b9-be53-f941405a58cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aisd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/isd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9c16cf74-f9e0-4d80-9a29-b91dec0b6b38/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac55909d3-1f67-4a4a-9d53-8513d6cf96d8&unique=prints
+collector_number: '164'
+digital: false
+rarity: rare
+flavor_text: '"A responsible king walks among his subjects."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Ryman
+artist_ids:
+- 3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5
+illustration_id: 4ac96ba2-efd2-42aa-ae78-6499dcbf4e47
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8784
+penny_rank: 174
+prices:
+  usd: '0.31'
+  usd_foil: '3.71'
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: '3.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230783
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stromkirk+Noble&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stromkirk+Noble&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stromkirk+Noble
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/52195?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stromkirk+Noble&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/42554?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

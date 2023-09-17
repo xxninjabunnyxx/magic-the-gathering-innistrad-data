@@ -1,0 +1,114 @@
+---
+object: card
+id: '08a47828-a79a-4189-9eef-2a5fc5125b61'
+oracle_id: df7e296d-96de-4280-a4d8-49189544b9e3
+multiverse_ids:
+- 220380
+mtgo_id: 42302
+mtgo_foil_id: 42303
+tcgplayer_id: 56215
+cardmarket_id: 250651
+name: Avacynian Priest
+lang: en
+released_at: '2011-09-30'
+uri: https://api.scryfall.com/cards/08a47828-a79a-4189-9eef-2a5fc5125b61
+scryfall_uri: https://scryfall.com/card/isd/4/avacynian-priest?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.jpg?1562825813
+  normal: https://cards.scryfall.io/normal/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.jpg?1562825813
+  large: https://cards.scryfall.io/large/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.jpg?1562825813
+  png: https://cards.scryfall.io/png/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.png?1562825813
+  art_crop: https://cards.scryfall.io/art_crop/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.jpg?1562825813
+  border_crop: https://cards.scryfall.io/border_crop/front/0/8/08a47828-a79a-4189-9eef-2a5fc5125b61.jpg?1562825813
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Human Cleric
+oracle_text: "{1}, {T}: Tap target non-Human creature."
+power: '1'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d1026945-2969-42b9-be53-f941405a58cb
+set: isd
+set_name: Innistrad
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d1026945-2969-42b9-be53-f941405a58cb
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aisd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/isd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/08a47828-a79a-4189-9eef-2a5fc5125b61/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adf7e296d-96de-4280-a4d8-49189544b9e3&unique=prints
+collector_number: '4'
+digital: false
+rarity: common
+flavor_text: Moorlanders speak in awe of the priests' talent for arriving just in
+  time to drive off the wicked things that prowl the ravished parish.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: bdfc58e3-1168-40da-a8ea-c190c93b0fc0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20015
+penny_rank: 7356
+prices:
+  usd: '0.07'
+  usd_foil: '0.33'
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: '0.49'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220380
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Avacynian+Priest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Avacynian+Priest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Avacynian+Priest
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/56215?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avacynian+Priest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/42302?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
